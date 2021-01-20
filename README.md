@@ -1,2 +1,2 @@
-# TF2IN-visual-novel
-visual novel from the TF2IN community
+# TF2IN visual novel
+collaborative visual novel from the TF2IN community.
